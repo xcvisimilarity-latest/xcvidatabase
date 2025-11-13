@@ -1,8 +1,8 @@
 [
   {
-    username: "free",
-    password: "gratis",
-    role: "premium",
+    username: "wanz",
+    password: "ganteng",
+    role: "developer",
     createdAt: 1762345091067,
     expired: 1764937091067
   }
