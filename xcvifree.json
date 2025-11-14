@@ -5,12 +5,5 @@
     "role": "premium",
     "createdAt": 1762345091067,
     "expired": 1764937091067
-  },
-  {
-    "username": "free2",
-    "password": "gratis2",
-    "role": "premium",
-    "createdAt": 1762345091067,
-    "expired": 1764937091067
   }
 ]
