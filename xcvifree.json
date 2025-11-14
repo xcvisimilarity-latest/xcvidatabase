@@ -40,5 +40,12 @@
     "role": "premium",
     "createdAt": 1763103798954,
     "expired": 152757672598076600000
+  },
+  {
+    "username": "okk",
+    "password": "7i0Txxcvi0",
+    "role": "premium",
+    "createdAt": 1763105057396,
+    "expired": 152683131751226640000
   }
 ]
