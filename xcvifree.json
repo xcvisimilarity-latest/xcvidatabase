@@ -5,5 +5,12 @@
     "role": "premium",
     "createdAt": 1763121970792,
     "expired": 152856287198510740000
+  },
+  {
+    "username": "nano",
+    "password": "a96NxcvivF",
+    "role": "premium",
+    "createdAt": 1763123300385,
+    "expired": 152804147365628900000
   }
 ]
