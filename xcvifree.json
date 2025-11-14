@@ -26,5 +26,12 @@
     "role": "premium",
     "createdAt": 1763124839569,
     "expired": 152438497292033650000
+  },
+  {
+    "username": "ssh",
+    "password": "jUxcviuO1i",
+    "role": "premium",
+    "createdAt": 1763125477121,
+    "expired": 152446017367976670000
   }
 ]
