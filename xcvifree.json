@@ -89,5 +89,12 @@
     "role": "premium",
     "createdAt": 1763133080660,
     "expired": 152372024711593900000
+  },
+  {
+    "username": "Val66",
+    "password": "xcviPdvQza",
+    "role": "premium",
+    "createdAt": 1763133459504,
+    "expired": 152364592470410260000
   }
 ]
