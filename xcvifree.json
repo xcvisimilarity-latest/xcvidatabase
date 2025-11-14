@@ -47,5 +47,12 @@
     "role": "premium",
     "createdAt": 1763129047219,
     "expired": 152364211271445840000
+  },
+  {
+    "username": "partee",
+    "password": "Ckla5xcvi9",
+    "role": "premium",
+    "createdAt": 1763129467324,
+    "expired": 152386642431670260000
   }
 ]
