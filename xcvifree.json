@@ -110,5 +110,12 @@
     "role": "premium",
     "createdAt": 1763134838830,
     "expired": 152372176614373230000
+  },
+  {
+    "username": "Gutaxyz",
+    "password": "ZdB95Cxcvi",
+    "role": "premium",
+    "createdAt": 1763135079745,
+    "expired": 152364732480488700000
   }
 ]
