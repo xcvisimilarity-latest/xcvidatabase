@@ -26,5 +26,12 @@
     "role": "premium",
     "createdAt": 1763128050473,
     "expired": 152386520026801640000
+  },
+  {
+    "username": "mecha",
+    "password": "XDtxcvi6mm",
+    "role": "premium",
+    "createdAt": 1763128375706,
+    "expired": 152386548107234000000
   }
 ]
