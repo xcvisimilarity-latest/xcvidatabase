@@ -152,5 +152,12 @@
     "role": "premium",
     "createdAt": 1763144211387,
     "expired": 152380451366504200000
+  },
+  {
+    "username": "TURUDEK",
+    "password": "LxcviyVHZ7",
+    "role": "premium",
+    "createdAt": 1763148017621,
+    "expired": 152380780141144800000
   }
 ]
