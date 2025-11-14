@@ -173,5 +173,12 @@
     "role": "premium",
     "createdAt": 1763148365615,
     "expired": 152380810278156370000
+  },
+  {
+    "username": "reno",
+    "password": "VcxcviqNZJ",
+    "role": "premium",
+    "createdAt": 1763155495278,
+    "expired": 152359031413574700000
   }
 ]
