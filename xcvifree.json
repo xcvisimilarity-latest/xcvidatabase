@@ -19,5 +19,12 @@
     "role": "premium",
     "createdAt": 1763124298220,
     "expired": 152625074438954700000
+  },
+  {
+    "username": "dino",
+    "password": "hSxcvijLNY",
+    "role": "premium",
+    "createdAt": 1763124839569,
+    "expired": 152438497292033650000
   }
 ]
