@@ -82,5 +82,12 @@
     "role": "premium",
     "createdAt": 1763131758228,
     "expired": 152364445482581360000
+  },
+  {
+    "username": "SANMODS",
+    "password": "OCXLhwxcvi",
+    "role": "premium",
+    "createdAt": 1763133080660,
+    "expired": 152372024711593900000
   }
 ]
