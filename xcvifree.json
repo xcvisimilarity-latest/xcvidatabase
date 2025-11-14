@@ -5,5 +5,12 @@
     "role": "premium",
     "createdAt": 1763126017806,
     "expired": 152363949414815630000
+  },
+  {
+    "username": "wut2",
+    "password": "MT26xcviAI",
+    "role": "premium",
+    "createdAt": 1763126553068,
+    "expired": 152356530800208150000
   }
 ]
