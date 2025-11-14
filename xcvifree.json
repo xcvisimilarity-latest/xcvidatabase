@@ -103,5 +103,12 @@
     "role": "premium",
     "createdAt": 1763133914177,
     "expired": 152364631775325900000
+  },
+  {
+    "username": "notsuga",
+    "password": "wJOgIxcvix",
+    "role": "premium",
+    "createdAt": 1763134838830,
+    "expired": 152372176614373230000
   }
 ]
