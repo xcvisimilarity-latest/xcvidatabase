@@ -145,5 +145,12 @@
     "role": "premium",
     "createdAt": 1763140728807,
     "expired": 152380150370327920000
+  },
+  {
+    "username": "AJURII",
+    "password": "aPGK2xcviR",
+    "role": "premium",
+    "createdAt": 1763144211387,
+    "expired": 152380451366504200000
   }
 ]
