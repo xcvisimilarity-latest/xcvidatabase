@@ -404,5 +404,12 @@
     "role": "premium",
     "createdAt": 1763210397653,
     "expired": 152371239940125600000
+  },
+  {
+    "username": "ParrzzApp",
+    "password": "TIPCxcviWu",
+    "role": "premium",
+    "createdAt": 1763212288537,
+    "expired": 152363938338335500000
   }
 ]
