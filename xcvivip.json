@@ -19,5 +19,12 @@
     "role": "mods",
     "createdAt": 1763165687422,
     "expired": 1763252087422
+  },
+  {
+    "username": "kenz",
+    "password": "7LaZGxcviW",
+    "role": "premium",
+    "createdAt": 1763166726252,
+    "expired": 152374931676001930000
   }
 ]
