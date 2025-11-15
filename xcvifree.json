@@ -474,5 +474,12 @@
     "role": "premium",
     "createdAt": 1763248541320,
     "expired": 152389465458390930000
+  },
+  {
+    "username": "Rafi",
+    "password": "pxcvi6dG8p",
+    "role": "premium",
+    "createdAt": 1763248998860,
+    "expired": 152367110129546600000
   }
 ]
