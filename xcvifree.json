@@ -439,5 +439,12 @@
     "role": "premium",
     "createdAt": 1763220451656,
     "expired": 152364643656362850000
+  },
+  {
+    "username": "YanzBugz",
+    "password": "aC6ZxcviWE",
+    "role": "premium",
+    "createdAt": 1763223486930,
+    "expired": 152387300700836300000
   }
 ]
