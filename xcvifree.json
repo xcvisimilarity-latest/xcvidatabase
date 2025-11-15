@@ -362,5 +362,12 @@
     "role": "premium",
     "createdAt": 1763198135136,
     "expired": 152392575333201350000
+  },
+  {
+    "username": "zall_dev",
+    "password": "qxcviHoNec",
+    "role": "premium",
+    "createdAt": 1763199161989,
+    "expired": 152392664054683960000
   }
 ]
