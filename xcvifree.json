@@ -299,5 +299,12 @@
     "role": "premium",
     "createdAt": 1763182150369,
     "expired": 152383729257262150000
+  },
+  {
+    "username": "Pepek",
+    "password": "q5xcviuplK",
+    "role": "premium",
+    "createdAt": 1763182580261,
+    "expired": 152376301458852970000
   }
 ]
