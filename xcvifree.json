@@ -292,5 +292,12 @@
     "role": "premium",
     "createdAt": 1763179994005,
     "expired": 152391007945858400000
+  },
+  {
+    "username": "Yuga",
+    "password": "xcvi4aRoxg",
+    "role": "premium",
+    "createdAt": 1763182150369,
+    "expired": 152383729257262150000
   }
 ]
