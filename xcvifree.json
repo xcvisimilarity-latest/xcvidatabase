@@ -390,5 +390,12 @@
     "role": "premium",
     "createdAt": 1763206277356,
     "expired": 152363418906799870000
+  },
+  {
+    "username": "tirtabos",
+    "password": "txcvifHecl",
+    "role": "premium",
+    "createdAt": 1763207216768,
+    "expired": 152378430067684000000
   }
 ]
