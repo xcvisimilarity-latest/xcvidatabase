@@ -383,5 +383,12 @@
     "role": "premium",
     "createdAt": 1763202768227,
     "expired": 152378045678831570000
+  },
+  {
+    "username": "desta",
+    "password": "6og4gxcviF",
+    "role": "premium",
+    "createdAt": 1763206277356,
+    "expired": 152363418906799870000
   }
 ]
