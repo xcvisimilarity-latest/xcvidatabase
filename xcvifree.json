@@ -306,5 +306,12 @@
     "role": "premium",
     "createdAt": 1763182580261,
     "expired": 152376301458852970000
+  },
+  {
+    "username": "jawa",
+    "password": "7Ifyxcviv6",
+    "role": "premium",
+    "createdAt": 1763185176459,
+    "expired": 152383990743754770000
   }
 ]
