@@ -12,5 +12,12 @@
     "role": "premium",
     "createdAt": 1762345091067,
     "expired": 1764937091067
+  },
+  {
+    "username": "pp",
+    "password": "pp",
+    "role": "mods",
+    "createdAt": 1763165182011,
+    "expired": 1763251582011
   }
 ]
