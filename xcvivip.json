@@ -12,5 +12,12 @@
     "role": "premium",
     "createdAt": 1762345091067,
     "expired": 1764937091067
+  },
+  {
+    "username": "hai",
+    "password": "hai",
+    "role": "mods",
+    "createdAt": 1763165687422,
+    "expired": 1763252087422
   }
 ]
