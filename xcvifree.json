@@ -229,5 +229,12 @@
     "role": "premium",
     "createdAt": 1763170832777,
     "expired": 152382751356908440000
+  },
+  {
+    "username": "mall123",
+    "password": "uxwuxcviNH",
+    "role": "premium",
+    "createdAt": 1763171630822,
+    "expired": 152382820405802040000
   }
 ]
