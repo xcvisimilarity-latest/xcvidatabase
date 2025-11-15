@@ -460,5 +460,12 @@
     "role": "premium",
     "createdAt": 1763246276692,
     "expired": 152389269780878260000
+  },
+  {
+    "username": "bimzz",
+    "password": "bExcviWjXR",
+    "role": "premium",
+    "createdAt": 1763247743290,
+    "expired": 152389396506092540000
   }
 ]
