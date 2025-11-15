@@ -250,5 +250,12 @@
     "role": "premium",
     "createdAt": 1763172926950,
     "expired": 152375467435064130000
+  },
+  {
+    "username": "ZIK_Z",
+    "password": "4poRxcviOj",
+    "role": "premium",
+    "createdAt": 1763174301570,
+    "expired": 152368121240505480000
   }
 ]
