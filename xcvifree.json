@@ -607,5 +607,12 @@
     "role": "premium",
     "createdAt": 1763291325486,
     "expired": 152393162007870540000
+  },
+  {
+    "username": "Twster",
+    "password": "00FN2Bxcvi",
+    "role": "premium",
+    "createdAt": 1763291875102,
+    "expired": 152378279564843880000
   }
 ]
