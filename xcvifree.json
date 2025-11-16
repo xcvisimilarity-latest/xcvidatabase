@@ -621,5 +621,12 @@
     "role": "premium",
     "createdAt": 1763292706139,
     "expired": 152378351361430320000
+  },
+  {
+    "username": "arkanakmeletop",
+    "password": "uHlzACxcvi",
+    "role": "premium",
+    "createdAt": 1763293893860,
+    "expired": 152385918943031500000
   }
 ]
