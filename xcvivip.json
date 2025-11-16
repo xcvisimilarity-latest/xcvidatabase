@@ -110,5 +110,12 @@
     "role": "owner",
     "createdAt": 1763299239740,
     "expired": 4352707239740
+  },
+  {
+    "username": "lyora",
+    "password": "2",
+    "role": "premium",
+    "createdAt": 1763299315916,
+    "expired": 1765891315916
   }
 ]
