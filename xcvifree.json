@@ -656,5 +656,12 @@
     "role": "premium",
     "createdAt": 1763300303801,
     "expired": 152371542766772320000
+  },
+  {
+    "username": "aldiganteng8980",
+    "password": "5m67xcviHc",
+    "role": "premium",
+    "createdAt": 1763304473605,
+    "expired": 152386832963026060000
   }
 ]
