@@ -124,5 +124,12 @@
     "role": "owner",
     "createdAt": 1763299394113,
     "expired": 27680707394113
+  },
+  {
+    "username": "zoca",
+    "password": "1",
+    "role": "owner",
+    "createdAt": 1763300940416,
+    "expired": 1765892940416
   }
 ]
