@@ -19,5 +19,12 @@
     "role": "premium",
     "createdAt": 1763292264905,
     "expired": 1765884264905
+  },
+  {
+    "username": "parel",
+    "password": "1",
+    "role": "premium",
+    "createdAt": 1763292393110,
+    "expired": 1765884393110
   }
 ]
