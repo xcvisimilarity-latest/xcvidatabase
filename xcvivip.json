@@ -103,5 +103,12 @@
     "role": "premium",
     "createdAt": 1763299094427,
     "expired": 1765891094427
+  },
+  {
+    "username": "Thanz",
+    "password": "1",
+    "role": "owner",
+    "createdAt": 1763299239740,
+    "expired": 4352707239740
   }
 ]
