@@ -649,5 +649,12 @@
     "role": "premium",
     "createdAt": 1763297766807,
     "expired": 152386253571444970000
+  },
+  {
+    "username": "F7sins",
+    "password": "B2xcvim25w",
+    "role": "premium",
+    "createdAt": 1763300303801,
+    "expired": 152371542766772320000
   }
 ]
