@@ -47,5 +47,12 @@
     "role": "premium",
     "createdAt": 1763294403745,
     "expired": 320001760382403800
+  },
+  {
+    "username": "riz",
+    "password": "1",
+    "role": "premium",
+    "createdAt": 1763294415309,
+    "expired": 1765886415309
   }
 ]
