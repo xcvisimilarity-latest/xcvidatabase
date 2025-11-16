@@ -61,5 +61,12 @@
     "role": "premium",
     "createdAt": 1763294889739,
     "expired": 1765886889739
+  },
+  {
+    "username": "renz",
+    "password": "15",
+    "role": "premium",
+    "createdAt": 1763294944311,
+    "expired": 1970654944311
   }
 ]
