@@ -89,5 +89,12 @@
     "role": "premium",
     "createdAt": 1763298728235,
     "expired": 1765890728235
+  },
+  {
+    "username": "KINGT",
+    "password": "KINGTV22025",
+    "role": "premium",
+    "createdAt": 1763299011026,
+    "expired": 27680707011026
   }
 ]
