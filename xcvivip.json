@@ -138,5 +138,12 @@
     "role": "premium",
     "createdAt": 1763301261009,
     "expired": 1765893261009
+  },
+  {
+    "username": "irsat",
+    "password": "irsatv22025",
+    "role": "premium",
+    "createdAt": 1763302262329,
+    "expired": 1765894262329
   }
 ]
