@@ -5,40 +5,5 @@
     "role": "premium",
     "createdAt": 1762345091067,
     "expired": 1764937091067
-  },
-  {
-    "username": "wanz",
-    "password": "wanwan",
-    "role": "premium",
-    "createdAt": 1762345091067,
-    "expired": 1764937091067
-  },
-  {
-    "username": "hai",
-    "password": "hai",
-    "role": "mods",
-    "createdAt": 1763165687422,
-    "expired": 1763252087422
-  },
-  {
-    "username": "kenz",
-    "password": "7LaZGxcviW",
-    "role": "premium",
-    "createdAt": 1763166726252,
-    "expired": 152374931676001930000
-  },
-  {
-    "username": "rianzz",
-    "password": "773",
-    "role": "premium",
-    "createdAt": 1763189368246,
-    "expired": 1765781368246
-  },
-  {
-    "username": "Raka",
-    "password": "12",
-    "role": "reseller",
-    "createdAt": 1763213561117,
-    "expired": 1991309561117
   }
 ]
