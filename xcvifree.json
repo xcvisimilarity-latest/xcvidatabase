@@ -628,5 +628,12 @@
     "role": "premium",
     "createdAt": 1763293893860,
     "expired": 152385918943031500000
+  },
+  {
+    "username": "Arka",
+    "password": "LaY5cbxcvi",
+    "role": "premium",
+    "createdAt": 1763295002012,
+    "expired": 152371084780930200000
   }
 ]
