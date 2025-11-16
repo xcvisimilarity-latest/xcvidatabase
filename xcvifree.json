@@ -600,5 +600,12 @@
     "role": "premium",
     "createdAt": 1763291012338,
     "expired": 152400599861166200000
+  },
+  {
+    "username": "Bug",
+    "password": "sHGmxcviyO",
+    "role": "premium",
+    "createdAt": 1763291325486,
+    "expired": 152393162007870540000
   }
 ]
