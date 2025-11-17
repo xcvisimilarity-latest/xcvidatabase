@@ -705,5 +705,12 @@
     "role": "premium",
     "createdAt": 1763347883322,
     "expired": 152405513564611900000
+  },
+  {
+    "username": "rapp",
+    "password": "ShqnW0xcvi",
+    "role": "premium",
+    "createdAt": 1763349209147,
+    "expired": 152398163145957200000
   }
 ]
