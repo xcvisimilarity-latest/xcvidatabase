@@ -362,5 +362,12 @@
     "role": "premium",
     "createdAt": 1763399029407,
     "expired": 2020007029407
+  },
+  {
+    "username": "fajar",
+    "password": "13",
+    "role": "premium",
+    "createdAt": 1763421344987,
+    "expired": 1991517344987
   }
 ]
