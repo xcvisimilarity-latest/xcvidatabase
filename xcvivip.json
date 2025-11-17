@@ -243,5 +243,12 @@
     "role": "reseller",
     "createdAt": 1763363940029,
     "expired": 2593760771940029
+  },
+  {
+    "username": "san",
+    "password": "09",
+    "role": "premium",
+    "createdAt": 1763365410147,
+    "expired": 1765957410147
   }
 ]
