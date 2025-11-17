@@ -236,5 +236,12 @@
     "role": "premium",
     "createdAt": 1763363240627,
     "expired": 1765955240627
+  },
+  {
+    "username": "rapp",
+    "password": "rapp2025",
+    "role": "reseller",
+    "createdAt": 1763363940029,
+    "expired": 2593760771940029
   }
 ]
