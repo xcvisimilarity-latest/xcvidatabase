@@ -691,5 +691,12 @@
     "role": "premium",
     "createdAt": 1763336230013,
     "expired": 152374646842673820000
+  },
+  {
+    "username": "xinnv3",
+    "password": "fxcviPueIF",
+    "role": "premium",
+    "createdAt": 1763347580106,
+    "expired": 152398022379533200000
   }
 ]
