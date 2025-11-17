@@ -278,5 +278,12 @@
     "role": "premium",
     "createdAt": 1763371221709,
     "expired": 260960779221709
+  },
+  {
+    "username": "viko",
+    "password": "7788",
+    "role": "premium",
+    "createdAt": 1763373468842,
+    "expired": 1765965468842
   }
 ]
