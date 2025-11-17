@@ -180,5 +180,12 @@
     "role": "premium",
     "createdAt": 1763349202115,
     "expired": 1765941202115
+  },
+  {
+    "username": "guy",
+    "password": "coli",
+    "role": "premium",
+    "createdAt": 1763350342962,
+    "expired": 1765942342962
   }
 ]
