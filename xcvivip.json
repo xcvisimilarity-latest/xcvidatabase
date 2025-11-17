@@ -348,5 +348,12 @@
     "role": "premium",
     "createdAt": 1763387884754,
     "expired": 1765979884754
+  },
+  {
+    "username": "ditzy",
+    "password": "8",
+    "role": "premium",
+    "createdAt": 1763396894977,
+    "expired": 1765988894977
   }
 ]
