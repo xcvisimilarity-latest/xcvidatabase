@@ -719,5 +719,12 @@
     "role": "premium",
     "createdAt": 1763358907745,
     "expired": 152376606161589300000
+  },
+  {
+    "username": "Shiroo",
+    "password": "gXxcviMKjL",
+    "role": "premium",
+    "createdAt": 1763364155860,
+    "expired": 152377059653508140000
   }
 ]
