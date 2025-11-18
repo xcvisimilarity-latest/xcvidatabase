@@ -789,5 +789,12 @@
     "role": "premium",
     "createdAt": 1763393827031,
     "expired": 152387088186382650000
+  },
+  {
+    "username": "fanzzui",
+    "password": "vsRSTOxcvi",
+    "role": "premium",
+    "createdAt": 1763431011298,
+    "expired": 152382835910282200000
   }
 ]
