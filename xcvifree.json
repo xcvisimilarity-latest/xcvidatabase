@@ -873,5 +873,12 @@
     "role": "premium",
     "createdAt": 1763555465434,
     "expired": 152408518738345900000
+  },
+  {
+    "username": "ZARD",
+    "password": "2rD3LAxcvi",
+    "role": "premium",
+    "createdAt": 1763555839176,
+    "expired": 152401086072765450000
   }
 ]
