@@ -453,5 +453,12 @@
     "role": "premium",
     "createdAt": 1763474441032,
     "expired": 1766066441032
+  },
+  {
+    "username": "Yudz",
+    "password": "Yudzgentwo2025",
+    "role": "premium",
+    "createdAt": 1763549869052,
+    "expired": 1766141869052
   }
 ]
