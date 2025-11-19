@@ -887,5 +887,12 @@
     "role": "premium",
     "createdAt": 1763558227071,
     "expired": 152423687267414200000
+  },
+  {
+    "username": "Rick",
+    "password": "LYwxcvixGN",
+    "role": "premium",
+    "createdAt": 1763565015583,
+    "expired": 152416808736102600000
   }
 ]
