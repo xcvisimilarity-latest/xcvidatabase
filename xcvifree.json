@@ -26,5 +26,12 @@
     "role": "premium",
     "createdAt": 1763623153346,
     "expired": 152414366953533540000
+  },
+  {
+    "username": "narraja",
+    "password": "9xcvitB6t2",
+    "role": "premium",
+    "createdAt": 1763625111230,
+    "expired": 152407071157823500000
   }
 ]
