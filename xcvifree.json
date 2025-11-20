@@ -908,5 +908,12 @@
     "role": "premium",
     "createdAt": 1763575028853,
     "expired": 152395279015427830000
+  },
+  {
+    "username": "PowerRanger",
+    "password": "92GTaxcviU",
+    "role": "premium",
+    "createdAt": 1763600400717,
+    "expired": 152419866085674000000
   }
 ]
