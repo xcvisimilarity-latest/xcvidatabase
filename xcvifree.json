@@ -68,5 +68,12 @@
     "role": "premium",
     "createdAt": 1763646210919,
     "expired": 152416359112743800000
+  },
+  {
+    "username": "Jokowi",
+    "password": "Xxcvias4h0",
+    "role": "premium",
+    "createdAt": 1763651625633,
+    "expired": 152416826919846800000
   }
 ]
