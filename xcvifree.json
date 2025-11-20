@@ -33,5 +33,12 @@
     "role": "premium",
     "createdAt": 1763625111230,
     "expired": 152407071157823500000
+  },
+  {
+    "username": "CEPZZ",
+    "password": "rEEixcvim6",
+    "role": "premium",
+    "createdAt": 1763625623602,
+    "expired": 152429510302963240000
   }
 ]
