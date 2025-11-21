@@ -516,5 +516,12 @@
     "role": "premium",
     "createdAt": 1763709892092,
     "expired": 1766301892092
+  },
+  {
+    "username": "yabujin",
+    "password": "02",
+    "role": "premium",
+    "createdAt": 1763713588414,
+    "expired": 1766305588414
   }
 ]
