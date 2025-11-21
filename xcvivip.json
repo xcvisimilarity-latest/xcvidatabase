@@ -509,5 +509,12 @@
     "role": "premium",
     "createdAt": 1763701239276,
     "expired": 1766293239276
+  },
+  {
+    "username": "zean72",
+    "password": "72",
+    "role": "premium",
+    "createdAt": 1763709892092,
+    "expired": 1766301892092
   }
 ]
