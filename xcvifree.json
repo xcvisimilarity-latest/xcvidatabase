@@ -96,5 +96,12 @@
     "role": "premium",
     "createdAt": 1763698420057,
     "expired": 152413405046770400000
+  },
+  {
+    "username": "Finza",
+    "password": "5xcviuaoCq",
+    "role": "premium",
+    "createdAt": 1763702345501,
+    "expired": 152413744147161550000
   }
 ]
