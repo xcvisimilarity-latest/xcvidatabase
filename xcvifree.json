@@ -180,5 +180,12 @@
     "role": "premium",
     "createdAt": 1763812324619,
     "expired": 152430711313780300000
+  },
+  {
+    "username": "rovel",
+    "password": "7yJixcvi7I",
+    "role": "premium",
+    "createdAt": 1763818856336,
+    "expired": 152446205631159660000
   }
 ]
