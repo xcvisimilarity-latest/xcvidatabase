@@ -152,5 +152,12 @@
     "role": "premium",
     "createdAt": 1763797573984,
     "expired": 152436901795227960000
+  },
+  {
+    "username": "Satria",
+    "password": "Xxcvi4fNIB",
+    "role": "premium",
+    "createdAt": 1763800951959,
+    "expired": 152414798757756140000
   }
 ]
