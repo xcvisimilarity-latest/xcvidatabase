@@ -607,5 +607,12 @@
     "role": "premium",
     "createdAt": 1763800728081,
     "expired": 1766392728081
+  },
+  {
+    "username": "murphed",
+    "password": "murphed123",
+    "role": "premium",
+    "createdAt": 1763819365293,
+    "expired": 1766411365293
   }
 ]
