@@ -614,5 +614,12 @@
     "role": "premium",
     "createdAt": 1763819365293,
     "expired": 1766411365293
+  },
+  {
+    "username": "danzi",
+    "password": "2",
+    "role": "premium",
+    "createdAt": 1763829980632,
+    "expired": 1766421980632
   }
 ]
