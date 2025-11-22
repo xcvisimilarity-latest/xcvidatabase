@@ -173,5 +173,12 @@
     "role": "premium",
     "createdAt": 1763811776007,
     "expired": 152423199012800600000
+  },
+  {
+    "username": "Ambacrash",
+    "password": "TX7xcvirnc",
+    "role": "premium",
+    "createdAt": 1763812324619,
+    "expired": 152430711313780300000
   }
 ]
