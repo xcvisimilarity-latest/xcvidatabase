@@ -558,5 +558,12 @@
     "role": "premium",
     "createdAt": 1763770888584,
     "expired": 1766362888584
+  },
+  {
+    "username": "REXPLOIT",
+    "password": "67",
+    "role": "premium",
+    "createdAt": 1763783685754,
+    "expired": 1766375685754
   }
 ]
