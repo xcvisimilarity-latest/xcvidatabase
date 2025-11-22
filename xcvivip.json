@@ -565,5 +565,12 @@
     "role": "premium",
     "createdAt": 1763783685754,
     "expired": 1766375685754
+  },
+  {
+    "username": "yanz",
+    "password": "gofuud",
+    "role": "premium",
+    "createdAt": 1763785172322,
+    "expired": 1766377172322
   }
 ]
