@@ -579,5 +579,12 @@
     "role": "premium",
     "createdAt": 1763790522991,
     "expired": 1766382522991
+  },
+  {
+    "username": "bibin",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1763791615954,
+    "expired": 1766383615954
   }
 ]
