@@ -600,5 +600,12 @@
     "role": "premium",
     "createdAt": 1763800308191,
     "expired": 1766392308191
+  },
+  {
+    "username": "zynxx",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1763800728081,
+    "expired": 1766392728081
   }
 ]
