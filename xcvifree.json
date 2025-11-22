@@ -166,5 +166,12 @@
     "role": "premium",
     "createdAt": 1763806297650,
     "expired": 152437655588062300000
+  },
+  {
+    "username": "ambacrash",
+    "password": "GSxcviobed",
+    "role": "premium",
+    "createdAt": 1763811776007,
+    "expired": 152423199012800600000
   }
 ]
