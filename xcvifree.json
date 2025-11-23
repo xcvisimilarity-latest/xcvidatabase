@@ -63,5 +63,12 @@
     "role": "premium",
     "createdAt": 1763908749873,
     "expired": 152424112532798340000
+  },
+  {
+    "username": "Albest",
+    "password": "OGFzh0xcvi",
+    "role": "premium",
+    "createdAt": 1763910915097,
+    "expired": 152424299665696520000
   }
 ]
