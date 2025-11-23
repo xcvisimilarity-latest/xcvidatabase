@@ -656,5 +656,12 @@
     "role": "premium",
     "createdAt": 1763899984961,
     "expired": 1766491984961
+  },
+  {
+    "username": "dede",
+    "password": "001",
+    "role": "premium",
+    "createdAt": 1763901094187,
+    "expired": 1766493094187
   }
 ]
