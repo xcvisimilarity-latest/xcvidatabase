@@ -49,5 +49,12 @@
     "role": "premium",
     "createdAt": 1763899266312,
     "expired": 152445688095240100000
+  },
+  {
+    "username": "rudi",
+    "password": "akxcviefo4",
+    "role": "premium",
+    "createdAt": 1763904287830,
+    "expired": 152438656995437100000
   }
 ]
