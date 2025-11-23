@@ -1,8 +1,11 @@
+
 [
- {
+  {
+    "id": "1234567",
     "username": "w",
-    "password": "y",
+    "password": "y", 
     "role": "premium",
+    "diamond": 100,
     "createdAt": 1763702345501,
     "expired": 152413744147161550000
   }
