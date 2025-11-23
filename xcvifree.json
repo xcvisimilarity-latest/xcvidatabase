@@ -21,5 +21,12 @@
     "role": "premium",
     "createdAt": 1763877561123,
     "expired": 152436347806715940000
+  },
+  {
+    "username": "regan",
+    "password": "xcviZEpnTQ",
+    "role": "premium",
+    "createdAt": 1763884689882,
+    "expired": 152444428630415900000
   }
 ]
