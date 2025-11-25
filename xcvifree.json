@@ -105,5 +105,12 @@
     "role": "premium",
     "createdAt": 1764009517310,
     "expired": 152455213664591900000
+  },
+  {
+    "username": "Aldi",
+    "password": "BxcviLU1Cv",
+    "role": "premium",
+    "createdAt": 1764036344624,
+    "expired": 152435136746887540000
   }
 ]
