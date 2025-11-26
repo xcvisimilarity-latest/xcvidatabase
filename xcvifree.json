@@ -147,5 +147,12 @@
     "role": "premium",
     "createdAt": 1764146869918,
     "expired": 152444686161862070000
+  },
+  {
+    "username": "Ega",
+    "password": "JxcviY22Oq",
+    "role": "premium",
+    "createdAt": 1764150776128,
+    "expired": 152474883434041970000
   }
 ]
