@@ -140,5 +140,12 @@
     "role": "premium",
     "createdAt": 1764137849499,
     "expired": 152473766623481860000
+  },
+  {
+    "username": "Zura",
+    "password": "MrfmxcviwD",
+    "role": "premium",
+    "createdAt": 1764146869918,
+    "expired": 152444686161862070000
   }
 ]
