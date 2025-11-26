@@ -698,5 +698,12 @@
     "role": "premium",
     "createdAt": 1764172285038,
     "expired": 2020780285038
+  },
+  {
+    "username": "sheikh1",
+    "password": "dealer1",
+    "role": "premium",
+    "createdAt": 1764172374818,
+    "expired": 2020780374818
   }
 ]
