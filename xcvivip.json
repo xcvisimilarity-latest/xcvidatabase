@@ -684,5 +684,12 @@
     "role": "premium",
     "createdAt": 1764072406235,
     "expired": 1766664406235
+  },
+  {
+    "username": "rensky",
+    "password": "666",
+    "role": "premium",
+    "createdAt": 1764154759343,
+    "expired": 1766746759343
   }
 ]
