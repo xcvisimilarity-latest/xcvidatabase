@@ -89,5 +89,12 @@
     "role": "premium",
     "createdAt": 1764214777473,
     "expired": 27681622777473
+  },
+  {
+    "username": "Lyrax",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1764216499937,
+    "expired": 27681624499937
   }
 ]
