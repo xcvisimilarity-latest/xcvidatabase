@@ -68,5 +68,12 @@
     "role": "premium",
     "createdAt": 1764213695875,
     "expired": 1766805695875
+  },
+  {
+    "username": "xren",
+    "password": "1",
+    "role": "premium",
+    "createdAt": 1764213716189,
+    "expired": 1766805716189
   }
 ]
