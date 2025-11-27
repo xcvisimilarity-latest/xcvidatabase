@@ -26,5 +26,12 @@
     "role": "premium",
     "createdAt": 1764205657276,
     "expired": 2020813657276
+  },
+  {
+    "username": "rizz",
+    "password": "1",
+    "role": "premium",
+    "createdAt": 1764206678611,
+    "expired": 2020814678611
   }
 ]
