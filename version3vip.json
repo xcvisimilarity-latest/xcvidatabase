@@ -229,5 +229,12 @@
     "role": "premium",
     "createdAt": 1764239029939,
     "expired": 1766831029939
+  },
+  {
+    "username": "baldwin",
+    "password": "78",
+    "role": "premium",
+    "createdAt": 1764239259825,
+    "expired": 1769423259825
   }
 ]
