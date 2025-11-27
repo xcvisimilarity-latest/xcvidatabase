@@ -271,5 +271,12 @@
     "role": "premium",
     "createdAt": 1764243121496,
     "expired": 1766835121496
+  },
+  {
+    "username": "tor",
+    "password": "monitor",
+    "role": "premium",
+    "createdAt": 1764250846899,
+    "expired": 1766842846899
   }
 ]
