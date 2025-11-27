@@ -19,5 +19,12 @@
     "role": "reseller",
     "createdAt": 1764204309122,
     "expired": 1766796309122
+  },
+  {
+    "username": "raju",
+    "password": "x",
+    "role": "premium",
+    "createdAt": 1764205657276,
+    "expired": 2020813657276
   }
 ]
