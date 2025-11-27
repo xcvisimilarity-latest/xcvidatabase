@@ -5,5 +5,12 @@
     "role": "developer",
     "createdAt": 1763126017806,
     "expired": 152363949414815630000
+  },
+  {
+    "username": "ell",
+    "password": "9",
+    "role": "reseller",
+    "createdAt": 1764203982348,
+    "expired": 1766795982348
   }
 ]
