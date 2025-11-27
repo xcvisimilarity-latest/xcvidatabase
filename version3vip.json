@@ -285,5 +285,12 @@
     "role": "premium",
     "createdAt": 1764252707047,
     "expired": 1766844707047
+  },
+  {
+    "username": "starbot",
+    "password": "76",
+    "role": "premium",
+    "createdAt": 1764252862022,
+    "expired": 1766844862022
   }
 ]
