@@ -110,5 +110,12 @@
     "role": "premium",
     "createdAt": 1764217361679,
     "expired": 1766809361679
+  },
+  {
+    "username": "kay",
+    "password": "1",
+    "role": "premium",
+    "createdAt": 1764217504358,
+    "expired": 1766809504358
   }
 ]
