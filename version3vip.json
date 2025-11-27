@@ -117,5 +117,12 @@
     "role": "premium",
     "createdAt": 1764217504358,
     "expired": 1766809504358
+  },
+  {
+    "username": "satz",
+    "password": "09",
+    "role": "premium",
+    "createdAt": 1764217640098,
+    "expired": 260961625640098
   }
 ]
