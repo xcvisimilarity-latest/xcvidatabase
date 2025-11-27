@@ -96,5 +96,12 @@
     "role": "premium",
     "createdAt": 1764216499937,
     "expired": 27681624499937
+  },
+  {
+    "username": "yoga",
+    "password": "02",
+    "role": "premium",
+    "createdAt": 1764216628252,
+    "expired": 1766808628252
   }
 ]
