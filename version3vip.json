@@ -194,5 +194,12 @@
     "role": "premium",
     "createdAt": 1764226995356,
     "expired": 1769410995356
+  },
+  {
+    "username": "yanstor",
+    "password": "yan66",
+    "role": "premium",
+    "createdAt": 1764227070503,
+    "expired": 1769411070503
   }
 ]
