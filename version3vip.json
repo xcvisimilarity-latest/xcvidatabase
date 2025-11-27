@@ -264,5 +264,12 @@
     "role": "premium",
     "createdAt": 1764242218169,
     "expired": 1766834218169
+  },
+  {
+    "username": "ikshan",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1764243121496,
+    "expired": 1766835121496
   }
 ]
