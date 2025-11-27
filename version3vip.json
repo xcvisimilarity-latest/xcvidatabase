@@ -180,5 +180,12 @@
     "role": "premium",
     "createdAt": 1764226064443,
     "expired": 2020834064443
+  },
+  {
+    "username": "ezyy",
+    "password": "1",
+    "role": "premium",
+    "createdAt": 1764226093693,
+    "expired": 4353634093693
   }
 ]
