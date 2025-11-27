@@ -12,5 +12,12 @@
     "role": "reseller",
     "createdAt": 1764203982348,
     "expired": 1766795982348
+  },
+  {
+    "username": "Ciaa",
+    "password": "31",
+    "role": "reseller",
+    "createdAt": 1764204309122,
+    "expired": 1766796309122
   }
 ]
