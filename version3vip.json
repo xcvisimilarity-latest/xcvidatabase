@@ -138,5 +138,12 @@
     "role": "premium",
     "createdAt": 1764219255816,
     "expired": 1766811255816
+  },
+  {
+    "username": "ryoo",
+    "password": "ryoo2025v3",
+    "role": "premium",
+    "createdAt": 1764222118712,
+    "expired": 1766814118712
   }
 ]
