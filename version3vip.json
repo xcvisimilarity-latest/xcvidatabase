@@ -33,5 +33,12 @@
     "role": "premium",
     "createdAt": 1764206678611,
     "expired": 2020814678611
+  },
+  {
+    "username": "ktua",
+    "password": "1",
+    "role": "premium",
+    "createdAt": 1764210669028,
+    "expired": 2020818669028
   }
 ]
