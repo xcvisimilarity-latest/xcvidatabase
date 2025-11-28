@@ -404,5 +404,12 @@
     "role": "premium",
     "createdAt": 1764343651768,
     "expired": 4353751651768
+  },
+  {
+    "username": "zero",
+    "password": "zero123",
+    "role": "premium",
+    "createdAt": 1764346141547,
+    "expired": 4353754141547
   }
 ]
