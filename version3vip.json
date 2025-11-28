@@ -327,5 +327,12 @@
     "role": "premium",
     "createdAt": 1764316341994,
     "expired": 1766908341994
+  },
+  {
+    "username": "valz",
+    "password": "1",
+    "role": "premium",
+    "createdAt": 1764316760197,
+    "expired": 1766908760197
   }
 ]
