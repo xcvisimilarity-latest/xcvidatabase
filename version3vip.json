@@ -390,5 +390,12 @@
     "role": "premium",
     "createdAt": 1764334807616,
     "expired": 1766926807616
+  },
+  {
+    "username": "dre",
+    "password": "dre097yukm",
+    "role": "premium",
+    "createdAt": 1764334960257,
+    "expired": 1766926960257
   }
 ]
