@@ -175,5 +175,12 @@
     "role": "premium",
     "createdAt": 1764218668910,
     "expired": 152465819512337070000
+  },
+  {
+    "username": "ownyxit",
+    "password": "2jxcvisant",
+    "role": "premium",
+    "createdAt": 1764288227838,
+    "expired": 152464364432726620000
   }
 ]
