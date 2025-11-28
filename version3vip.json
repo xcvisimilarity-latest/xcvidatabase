@@ -397,5 +397,12 @@
     "role": "premium",
     "createdAt": 1764334960257,
     "expired": 1766926960257
+  },
+  {
+    "username": "queen",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1764343651768,
+    "expired": 4353751651768
   }
 ]
