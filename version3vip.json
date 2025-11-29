@@ -481,5 +481,12 @@
     "role": "premium",
     "createdAt": 1764429864258,
     "expired": 4353837864258
+  },
+  {
+    "username": "gibxroy",
+    "password": "001",
+    "role": "reseller",
+    "createdAt": 1764434328443,
+    "expired": 1767890328443
   }
 ]
