@@ -252,5 +252,12 @@
     "role": "premium",
     "createdAt": 1764316422463,
     "expired": 152466800402390020000
+  },
+  {
+    "username": "LINZZ",
+    "password": "eDTxcvijYY",
+    "role": "premium",
+    "createdAt": 1764409609639,
+    "expired": 152497246657168000000
   }
 ]
