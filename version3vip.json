@@ -495,5 +495,12 @@
     "role": "premium",
     "createdAt": 1764474246319,
     "expired": 1767066246319
+  },
+  {
+    "username": "dpazhard",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1764479104918,
+    "expired": 1767071104918
   }
 ]
