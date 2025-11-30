@@ -502,5 +502,12 @@
     "role": "premium",
     "createdAt": 1764479104918,
     "expired": 1767071104918
+  },
+  {
+    "username": "vinx",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1764480825614,
+    "expired": 1767072825614
   }
 ]
