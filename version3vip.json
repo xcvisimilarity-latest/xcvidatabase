@@ -488,5 +488,12 @@
     "role": "reseller",
     "createdAt": 1764434328443,
     "expired": 1767890328443
+  },
+  {
+    "username": "milzz",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1764474246319,
+    "expired": 1767066246319
   }
 ]
