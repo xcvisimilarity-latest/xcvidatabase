@@ -593,5 +593,12 @@
     "role": "premium",
     "createdAt": 1764566087410,
     "expired": 1767158087410
+  },
+  {
+    "username": "dathan",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1764573530089,
+    "expired": 1767165530089
   }
 ]
