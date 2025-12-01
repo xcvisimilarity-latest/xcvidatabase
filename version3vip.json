@@ -586,5 +586,12 @@
     "role": "premium",
     "createdAt": 1764563485148,
     "expired": 1767155485148
+  },
+  {
+    "username": "rez",
+    "password": "02",
+    "role": "premium",
+    "createdAt": 1764566087410,
+    "expired": 1767158087410
   }
 ]
