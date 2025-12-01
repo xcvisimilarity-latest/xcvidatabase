@@ -621,5 +621,12 @@
     "role": "premium",
     "createdAt": 1764589153979,
     "expired": 1767181153979
+  },
+  {
+    "username": "kenzimup",
+    "password": "22",
+    "role": "premium",
+    "createdAt": 1764593882506,
+    "expired": 1767185882506
   }
 ]
