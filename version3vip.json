@@ -600,5 +600,12 @@
     "role": "premium",
     "createdAt": 1764573530089,
     "expired": 1767165530089
+  },
+  {
+    "username": "fanz",
+    "password": "02",
+    "role": "premium",
+    "createdAt": 1764579441196,
+    "expired": 1767171441196
   }
 ]
