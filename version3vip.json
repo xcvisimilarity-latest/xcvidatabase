@@ -572,5 +572,12 @@
     "role": "premium",
     "createdAt": 1764508954393,
     "expired": 1767100954393
+  },
+  {
+    "username": "yuta1",
+    "password": "123",
+    "role": "premium",
+    "createdAt": 1764559696726,
+    "expired": 1767151696726
   }
 ]
