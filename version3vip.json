@@ -614,5 +614,12 @@
     "role": "premium",
     "createdAt": 1764588938350,
     "expired": 1767180938350
+  },
+  {
+    "username": "buyer1",
+    "password": "76",
+    "role": "premium",
+    "createdAt": 1764589153979,
+    "expired": 1767181153979
   }
 ]
