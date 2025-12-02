@@ -663,5 +663,12 @@
     "role": "premium",
     "createdAt": 1764657690551,
     "expired": 1767249690551
+  },
+  {
+    "username": "ghost",
+    "password": "12",
+    "role": "premium",
+    "createdAt": 1764658611341,
+    "expired": 1767250611341
   }
 ]
