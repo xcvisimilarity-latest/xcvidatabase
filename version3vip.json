@@ -691,5 +691,12 @@
     "role": "premium",
     "createdAt": 1764761226217,
     "expired": 1767353226217
+  },
+  {
+    "username": "ngewe",
+    "password": "bedul",
+    "role": "premium",
+    "createdAt": 1764763663964,
+    "expired": 1767355663964
   }
 ]
